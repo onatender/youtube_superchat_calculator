@@ -1,6 +1,5 @@
-# Youtube Superchat Calculator  
+# YouTube Superchat Calculator
+
+If you're wondering 'how much has this video earned from superchats', this script is perfect for you. Using Selenium, this script allows you to calculate this amount.   All you have to do is enter the video ID and wait until it calculates.  
   
-If you are wondering 'how much is this video earned from superchats', this script is absolutely for you.  
-Using selenium, this script provides you to calculate this amount. All you have to do is entering the video id and wait till it calculates.  
-It's using selenium so you have to download current chromedriver.exe via this [link](https://chromedriver.chromium.org/) which is responding your chrome version.  
-And you have to put this file into project folder.
+Since it uses Selenium, you need to download the current chromedriver.exe via this [link](https://chromedriver.chromium.org/), which corresponds to your Chrome version.  After downloading, you have to put this file into the project folder.
